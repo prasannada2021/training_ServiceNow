@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="635a3a718750011018e265f73cbb355a" sys_domain="global" table="x_730133_serviceno_innovate_application_data_model" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-09 06:02:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b5a3a718750011018e265f73cbb355c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_730133_serviceno_innovate_application_data_model" name="x_730133_serviceno_innovate_application_data_model" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">635a3a718750011018e265f73cbb355a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_730133_serviceno_innovate_application_data_model" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">a75a3a718750011018e265f73cbb3558</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-09 06:02:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-09 06:02:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e35a3a718750011018e265f73cbb355d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_730133_serviceno_innovate_application_data_model" name="x_730133_serviceno_innovate_application_data_model" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">635a3a718750011018e265f73cbb355a</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_730133_serviceno_innovate_application_data_model" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">635a3a718750011018e265f73cbb3559</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-09 06:02:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_730133_serviceno_innovate_application_data_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-09 06:02:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>635a3a718750011018e265f73cbb355a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_730133_serviceno_innovate_application_data_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ServiceNow Demo" source="x_730133_serviceno">13aedd198710011018e265f73cbb3571</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ServiceNow Demo">13aedd198710011018e265f73cbb3571</sys_scope>
+            <sys_update_name>sys_ui_form_sections_635a3a718750011018e265f73cbb355a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-09 06:02:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
